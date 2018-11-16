@@ -1,5 +1,5 @@
 function User(year, color, model) {
-  this.name = name
-  this.age = age
-  this.hometown = hometown
+  this.year = year
+  this.color = color
+  this.model = model
 }
